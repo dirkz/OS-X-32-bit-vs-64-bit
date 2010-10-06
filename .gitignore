@@ -1,2 +1,6 @@
 *.o
 *~
+foo
+foo32
+foo64
+error64
